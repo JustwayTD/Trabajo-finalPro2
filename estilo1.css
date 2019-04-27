@@ -10,3 +10,39 @@ font-style: normal;
 font-variant: normal;
 text-transform: none;
 }
+#desc{
+  font-family: "Times New Roman", Times, serif;
+font-size: 20 px;
+letter-spacing: 0.2px;
+word-spacing: 0px;
+color: #000000;
+font-weight: 700;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+dd{
+  font-family: "Times New Roman", Times, serif;
+font-size: 22px;
+letter-spacing: 0.2px;
+word-spacing: 0px;
+color: #000000;
+font-weight: 700;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+dt{
+  font-family: "Times New Roman", Times, serif;
+font-size: 30px;
+letter-spacing: 0.2px;
+word-spacing: 0px;
+color: #000000;
+font-weight: 700;
+text-decoration: none solid rgb(68, 68, 68);
+font-style: italic;
+font-variant: normal;
+text-transform: none;
+}
